@@ -3,7 +3,7 @@ import logging
 
 discord.utils.setup_logging()
 
-token = "MTExMTU4NzI4NzI5ODQ3NDA2NQ.GAIeAa.XHb6qaWOrFUHHc_G7pTU3emB9tVt57x32ZdVjg"
+token = ""
 
 intents = discord.Intents.default()
 intents.message_content = True
